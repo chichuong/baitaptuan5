@@ -1,0 +1,7 @@
+D:\hoc\hocthayhuynh\Phuongphapphattrienphanmen\cshard\lab01\thuchanh9\bin\Debug\thuchanh9.exe.config
+D:\hoc\hocthayhuynh\Phuongphapphattrienphanmen\cshard\lab01\thuchanh9\bin\Debug\thuchanh9.exe
+D:\hoc\hocthayhuynh\Phuongphapphattrienphanmen\cshard\lab01\thuchanh9\bin\Debug\thuchanh9.pdb
+D:\hoc\hocthayhuynh\Phuongphapphattrienphanmen\cshard\lab01\thuchanh9\obj\Debug\thuchanh9.csproj.AssemblyReference.cache
+D:\hoc\hocthayhuynh\Phuongphapphattrienphanmen\cshard\lab01\thuchanh9\obj\Debug\thuchanh9.csproj.CoreCompileInputs.cache
+D:\hoc\hocthayhuynh\Phuongphapphattrienphanmen\cshard\lab01\thuchanh9\obj\Debug\thuchanh9.exe
+D:\hoc\hocthayhuynh\Phuongphapphattrienphanmen\cshard\lab01\thuchanh9\obj\Debug\thuchanh9.pdb

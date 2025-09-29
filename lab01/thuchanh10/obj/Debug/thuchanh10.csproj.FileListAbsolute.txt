@@ -1,0 +1,9 @@
+D:\hoc\hocthayhuynh\Phuongphapphattrienphanmen\cshard\lab01\thuchanh10\bin\Debug\thuchanh10.exe.config
+D:\hoc\hocthayhuynh\Phuongphapphattrienphanmen\cshard\lab01\thuchanh10\bin\Debug\thuchanh10.exe
+D:\hoc\hocthayhuynh\Phuongphapphattrienphanmen\cshard\lab01\thuchanh10\bin\Debug\thuchanh10.pdb
+D:\hoc\hocthayhuynh\Phuongphapphattrienphanmen\cshard\lab01\thuchanh10\obj\Debug\thuchanh10.csproj.AssemblyReference.cache
+D:\hoc\hocthayhuynh\Phuongphapphattrienphanmen\cshard\lab01\thuchanh10\obj\Debug\thuchanh10.csproj.CoreCompileInputs.cache
+D:\hoc\hocthayhuynh\Phuongphapphattrienphanmen\cshard\lab01\thuchanh10\obj\Debug\thuchanh10.exe
+D:\hoc\hocthayhuynh\Phuongphapphattrienphanmen\cshard\lab01\thuchanh10\obj\Debug\thuchanh10.pdb
+D:\hoc\hocthayhuynh\Phuongphapphattrienphanmen\cshard\lab01\thuchanh10\bin\Debug\input_array.txt
+D:\hoc\hocthayhuynh\Phuongphapphattrienphanmen\cshard\lab01\thuchanh10\obj\Debug\thuchanh10.exe.config

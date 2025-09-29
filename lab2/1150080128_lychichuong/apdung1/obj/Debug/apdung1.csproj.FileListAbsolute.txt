@@ -1,0 +1,9 @@
+D:\hoc\hocthayhuynh\Phuongphapphattrienphanmen\cshard\lab2\1150080128_lychichuong\apdung1\bin\Debug\apdung1.exe.config
+D:\hoc\hocthayhuynh\Phuongphapphattrienphanmen\cshard\lab2\1150080128_lychichuong\apdung1\bin\Debug\apdung1.exe
+D:\hoc\hocthayhuynh\Phuongphapphattrienphanmen\cshard\lab2\1150080128_lychichuong\apdung1\bin\Debug\apdung1.pdb
+D:\hoc\hocthayhuynh\Phuongphapphattrienphanmen\cshard\lab2\1150080128_lychichuong\apdung1\obj\Debug\apdung1.csproj.AssemblyReference.cache
+D:\hoc\hocthayhuynh\Phuongphapphattrienphanmen\cshard\lab2\1150080128_lychichuong\apdung1\obj\Debug\apdung1.Properties.Resources.resources
+D:\hoc\hocthayhuynh\Phuongphapphattrienphanmen\cshard\lab2\1150080128_lychichuong\apdung1\obj\Debug\apdung1.csproj.GenerateResource.cache
+D:\hoc\hocthayhuynh\Phuongphapphattrienphanmen\cshard\lab2\1150080128_lychichuong\apdung1\obj\Debug\apdung1.csproj.CoreCompileInputs.cache
+D:\hoc\hocthayhuynh\Phuongphapphattrienphanmen\cshard\lab2\1150080128_lychichuong\apdung1\obj\Debug\apdung1.exe
+D:\hoc\hocthayhuynh\Phuongphapphattrienphanmen\cshard\lab2\1150080128_lychichuong\apdung1\obj\Debug\apdung1.pdb

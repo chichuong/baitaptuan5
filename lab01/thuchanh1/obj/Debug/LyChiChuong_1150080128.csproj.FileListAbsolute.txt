@@ -1,0 +1,7 @@
+D:\hoc\hocthayhuynh\Phuongphapphattrienphanmen\cshard\lab01\LyChiChuong_1150080128\bin\Debug\LyChiChuong_1150080128.exe.config
+D:\hoc\hocthayhuynh\Phuongphapphattrienphanmen\cshard\lab01\LyChiChuong_1150080128\bin\Debug\LyChiChuong_1150080128.exe
+D:\hoc\hocthayhuynh\Phuongphapphattrienphanmen\cshard\lab01\LyChiChuong_1150080128\bin\Debug\LyChiChuong_1150080128.pdb
+D:\hoc\hocthayhuynh\Phuongphapphattrienphanmen\cshard\lab01\LyChiChuong_1150080128\obj\Debug\LyChiChuong_1150080128.csproj.AssemblyReference.cache
+D:\hoc\hocthayhuynh\Phuongphapphattrienphanmen\cshard\lab01\LyChiChuong_1150080128\obj\Debug\LyChiChuong_1150080128.csproj.CoreCompileInputs.cache
+D:\hoc\hocthayhuynh\Phuongphapphattrienphanmen\cshard\lab01\LyChiChuong_1150080128\obj\Debug\LyChiChuong_1150080128.exe
+D:\hoc\hocthayhuynh\Phuongphapphattrienphanmen\cshard\lab01\LyChiChuong_1150080128\obj\Debug\LyChiChuong_1150080128.pdb
