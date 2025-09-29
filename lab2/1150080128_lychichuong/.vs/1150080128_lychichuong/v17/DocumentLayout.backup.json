@@ -1,14 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\hoc\\hocthayhuynh\\Phuongphapphattrienphanmen\\cshard\\lab2\\1150080128_lychichuong\\",
+  "WorkspaceRootPath": "D:\\hoc\\hocthayhuynh\\Phuongphapphattrienphanmen\\buoi5\\lab2\\1150080128_lychichuong\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A511B0B1-E24E-4C67-A81C-728E44A63D0B}|apdung3\\apdung3.csproj|d:\\hoc\\hocthayhuynh\\phuongphapphattrienphanmen\\cshard\\lab2\\1150080128_lychichuong\\apdung3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A511B0B1-E24E-4C67-A81C-728E44A63D0B}|apdung3\\apdung3.csproj|solutionrelative:apdung3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5E754985-CB32-4F95-9457-20A241837F93}|apdung4\\apdung4.csproj|d:\\hoc\\hocthayhuynh\\phuongphapphattrienphanmen\\buoi5\\lab2\\1150080128_lychichuong\\apdung4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E754985-CB32-4F95-9457-20A241837F93}|apdung4\\apdung4.csproj|solutionrelative:apdung4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A511B0B1-E24E-4C67-A81C-728E44A63D0B}|apdung3\\apdung3.csproj|d:\\hoc\\hocthayhuynh\\phuongphapphattrienphanmen\\cshard\\lab2\\1150080128_lychichuong\\apdung3\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A511B0B1-E24E-4C67-A81C-728E44A63D0B}|apdung3\\apdung3.csproj|solutionrelative:apdung3\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5E754985-CB32-4F95-9457-20A241837F93}|apdung4\\apdung4.csproj|d:\\hoc\\hocthayhuynh\\phuongphapphattrienphanmen\\buoi5\\lab2\\1150080128_lychichuong\\apdung4\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E754985-CB32-4F95-9457-20A241837F93}|apdung4\\apdung4.csproj|solutionrelative:apdung4\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E754985-CB32-4F95-9457-20A241837F93}|apdung4\\apdung4.csproj|d:\\hoc\\hocthayhuynh\\phuongphapphattrienphanmen\\buoi5\\lab2\\1150080128_lychichuong\\apdung4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5E754985-CB32-4F95-9457-20A241837F93}|apdung4\\apdung4.csproj|solutionrelative:apdung4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,29 +30,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.Designer.cs",
-              "DocumentMoniker": "D:\\hoc\\hocthayhuynh\\Phuongphapphattrienphanmen\\cshard\\lab2\\1150080128_lychichuong\\apdung3\\Form1.Designer.cs",
-              "RelativeDocumentMoniker": "apdung3\\Form1.Designer.cs",
-              "ToolTip": "D:\\hoc\\hocthayhuynh\\Phuongphapphattrienphanmen\\cshard\\lab2\\1150080128_lychichuong\\apdung3\\Form1.Designer.cs",
-              "RelativeToolTip": "apdung3\\Form1.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\hoc\\hocthayhuynh\\Phuongphapphattrienphanmen\\buoi5\\lab2\\1150080128_lychichuong\\apdung4\\Form1.cs",
+              "RelativeDocumentMoniker": "apdung4\\Form1.cs",
+              "ToolTip": "D:\\hoc\\hocthayhuynh\\Phuongphapphattrienphanmen\\buoi5\\lab2\\1150080128_lychichuong\\apdung4\\Form1.cs",
+              "RelativeToolTip": "apdung4\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-29T07:31:10.695Z",
+              "WhenOpened": "2025-09-29T07:43:59.311Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\hoc\\hocthayhuynh\\Phuongphapphattrienphanmen\\cshard\\lab2\\1150080128_lychichuong\\apdung3\\Form1.cs",
-              "RelativeDocumentMoniker": "apdung3\\Form1.cs",
-              "ToolTip": "D:\\hoc\\hocthayhuynh\\Phuongphapphattrienphanmen\\cshard\\lab2\\1150080128_lychichuong\\apdung3\\Form1.cs",
-              "RelativeToolTip": "apdung3\\Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\hoc\\hocthayhuynh\\Phuongphapphattrienphanmen\\buoi5\\lab2\\1150080128_lychichuong\\apdung4\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "apdung4\\Form1.Designer.cs",
+              "ToolTip": "D:\\hoc\\hocthayhuynh\\Phuongphapphattrienphanmen\\buoi5\\lab2\\1150080128_lychichuong\\apdung4\\Form1.Designer.cs",
+              "RelativeToolTip": "apdung4\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-29T07:31:08.944Z",
+              "WhenOpened": "2025-09-29T07:43:57.41Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\hoc\\hocthayhuynh\\Phuongphapphattrienphanmen\\buoi5\\lab2\\1150080128_lychichuong\\apdung4\\Form1.cs",
+              "RelativeDocumentMoniker": "apdung4\\Form1.cs",
+              "ToolTip": "D:\\hoc\\hocthayhuynh\\Phuongphapphattrienphanmen\\buoi5\\lab2\\1150080128_lychichuong\\apdung4\\Form1.cs [Design]",
+              "RelativeToolTip": "apdung4\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T07:43:55.375Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }
